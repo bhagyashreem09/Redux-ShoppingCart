@@ -14,7 +14,7 @@ Open [http://localhost:3000](http://localhost:3000) with your browser to see the
 
 
 ## Deploy
-### ShoppingCart Web app deployed on Vercel
+### ShoppingCart deployed on Vercel :
 https://redux-shopping-cart-eight.vercel.app/
 
 
